@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="OpenAPI chat"
+              title="OpenAI chat"
               description="Einen eigenen Chatbot mit OpenAI API erstellt. Der Chatbot kann auf alle Fragen antworten und auch eine Unterhaltung führen. Da ich ein Testzertifikat nutze, bitte weitergehen auf der Seite."
               ghLink="https://github.com/nelonissle/gptapp"
               demoLink="https://private.nissle.ch:8443/"
